@@ -74,3 +74,10 @@ git checkout fiturbaru
 
 ```
 untuk melakukan perpindahan branch mengunakan perintah git checkout 
+
+ ## mengabungkan branch 
+
+ ```
+  git marge 
+
+ ```
