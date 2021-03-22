@@ -65,3 +65,12 @@ git push -f origin main
 
 ```
 git push berfungsi untuk push data yang berada di repo local ke dalam repo github kita 
+
+## berpindah branch 
+```
+git checkout namabranch
+
+git checkout fiturbaru
+
+```
+untuk melakukan perpindahan branch mengunakan perintah git checkout 
