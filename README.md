@@ -78,6 +78,8 @@ untuk melakukan perpindahan branch mengunakan perintah git checkout
  ## mengabungkan branch 
 
  ```
-  git marge 
+  git merge namabranch
+  git merge fiturbaru
 
  ```
+ untuk menjalankan perintah git merge kita terlebih dahulu checkout ke branch HEAD dengan cara git checkout main
