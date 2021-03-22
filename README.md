@@ -37,3 +37,31 @@ git branch -d namabranch
 <!-- berfungsi  menghapus sebuah branch dengan mengunakan parameter -d sebelum nama branch-->
 
 ```
+## pengunaan git remote to github 
+
+```
+git remote add namaremote https://github.com/username/repo.git
+
+git remote add origin https://github.com/rzhasibuan/istilah-pada-git.git
+
+
+```
+git remote berfungsi untuk meremote repository github kedalam repository local komputer kita 
+
+
+
+## pengunaan git status
+
+```
+git status 
+
+```
+git status berfungsi untuk melihat status dari file pada repo contohnya seperti melihat perubahan pada file didalam repo dan jika kita telah melakukan commit maka pada git status sudah tidak ada lagi 
+
+
+## pengunaan git push
+```
+git push -f origin main
+
+```
+git push berfungsi untuk push data yang berada di repo local ke dalam repo github kita 
